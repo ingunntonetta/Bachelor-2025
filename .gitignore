@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Configuration files
+config.py
+
+# Terraform state files (contain sensitive information)
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform crash logs (in case of errors)
+crash.log
+
+# Terraform lock file (stores provider versions, should not be committed)
+.terraform.lock.hcl
+
+# Terraform provider directory (auto-generated)
+.terraform/
+
+# Local override files (used for configuration overrides)
+*.tfvars
+*.tfvars.json
+terraform.tfvars
+
+# Ignore sensitive or local environment files
+.env
+.envrc
+
+# Ignore backup files and system-generated files
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
