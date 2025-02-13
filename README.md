@@ -20,3 +20,5 @@ ssh -i ~/.ssh/PubSec-Assistant_key.pem azureuser@20.93.32.76
 ```
 
 Now you should be inside the VM in your terminal. For a nicer developer experience, you can also connect to SSH in VSCode. For this you will need to have Remote-SSH installed. 
+
+Please see the `README_INTERNAL.md` inside the `Pubsec-info-assistant`-folder for guidance on how to deploy the Pubsec-assistant.
