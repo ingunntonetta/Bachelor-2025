@@ -1,3 +1,8 @@
+Artificial Intelligence (AI), in particular Large Language Models (LLMs), offers potential to improve Norwegian public-sector operations. However, adoption is challenging due to strict requirements for regulatory compliance, security, and data sovereignty, especially when using cloud platforms managed by non-European providers. Solutions like Microsoft Cloud for Sovereignty (MCFS) have emerged to address these needs by providing a framework for compliant cloud usage. 
+
+This rep
+
+
 This folder contains a setup for running OpenAI in Azure and a simple application for an initial test of functionality. 
 
 Make sure that: 

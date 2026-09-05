@@ -30,6 +30,13 @@ terraform.tfvars
 .env
 .envrc
 
+# SSH keys and certificates
+*.pem
+*.key
+
+# Internal documentation with sensitive information
+**/README_INTERNAL.md
+
 # Ignore backup files and system-generated files
 *.bak
 *.swp
