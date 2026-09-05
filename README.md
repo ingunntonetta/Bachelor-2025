@@ -22,7 +22,7 @@ This repository is organized into the following main directories:
 
 ## Technologies
 
-This project leverages the following key technologies:
+This project uses the following technologies:
 
 - **Azure OpenAI Service** - Provides GPT models for the AI assistant
 - **Azure Cloud Infrastructure** - Including Azure AI Search, Azure Storage, Azure Functions, Azure App Service, and Azure Key Vault
